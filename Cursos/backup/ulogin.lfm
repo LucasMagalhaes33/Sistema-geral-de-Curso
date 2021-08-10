@@ -1,0 +1,8 @@
+object frmLogin: TfrmLogin
+  Left = 257
+  Height = 240
+  Top = 127
+  Width = 320
+  Caption = 'frmLogin'
+  LCLVersion = '2.0.12.0'
+end
